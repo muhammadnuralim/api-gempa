@@ -1,0 +1,6 @@
+.venv/*
+__pycache__/*
+app/__pycache__/*
+app/gempa/__pycache__/*
+app/home/__pycache__/*
+app/models/__pycache__/*

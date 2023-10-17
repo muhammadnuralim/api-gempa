@@ -1,0 +1,31 @@
+Tanggal,Jam,DateTime,Coordinates,Lintang,Bujur,Magnitude,Kedalaman,Wilayah,Potensi,Kategori,Dirasakan
+12 Okt 2023,16:30:02 WIB,2023-10-12T09:30:02+00:00,"-10.18,120.12",10.18 LS,120.12 BT,5.0,10 km,17 km BaratLaut KARERA-SUMBATIMUR-NTT,Tidak berpotensi tsunami,Gempa Terkini,
+12 Okt 2023,13:18:43 WIB,2023-10-12T06:18:43+00:00,"-4.42,133.90",4.42 LS,133.90 BT,5.3,10 km,125 km BaratDaya KAIMANA-PAPUABRT,Tidak berpotensi tsunami,Gempa Terkini,
+11 Okt 2023,03:20:24 WIB,2023-10-10T20:20:24+00:00,"-6.71,129.89",6.71 LS,129.89 BT,5.0,181 km,210 km BaratLaut TANIMBAR,Tidak berpotensi tsunami,Gempa Terkini,
+09 Okt 2023,10:50:50 WIB,2023-10-09T03:50:50+00:00,"0.41,122.24",0.41 LU,122.24 BT,5.6,101 km,17 km BaratDaya BOALEMO-GORONTALO,Tidak berpotensi tsunami,Gempa Terkini,
+05 Okt 2023,11:25:47 WIB,2023-10-05T04:25:47+00:00,"-4.46,127.09",4.46 LS,127.09 BT,5.0,10 km,99 km BaratDaya BURUSELATAN-MALUKU,Tidak berpotensi tsunami,Gempa Terkini,
+05 Okt 2023,10:38:23 WIB,2023-10-05T03:38:23+00:00,"4.27,125.94",4.27 LU,125.94 BT,5.1,92 km,87 km BaratLaut MELONGUANE-SULUT,Tidak berpotensi tsunami,Gempa Terkini,
+04 Okt 2023,18:21:48 WIB,2023-10-04T11:21:48+00:00,"5.43,126.27",5.43 LU,126.27 BT,6.7,145 km,116 km BaratLaut PULAUKARATUNG-SULUT,Tidak berpotensi tsunami,Gempa Terkini,
+04 Okt 2023,05:17:05 WIB,2023-10-03T22:17:05+00:00,"-5.15,102.36",5.15 LS,102.36 BT,5.0,10 km,24 km TimurLaut ENGGANO-BENGKULU,Tidak berpotensi tsunami,Gempa Terkini,
+03 Okt 2023,20:53:07 WIB,2023-10-03T13:53:07+00:00,"4.44,127.44",4.44 LU,127.44 BT,5.0,80 km,53 km Tenggara PULAUKARATUNG-SULUT,Tidak berpotensi tsunami,Gempa Terkini,
+02 Okt 2023,15:58:40 WIB,2023-10-02T08:58:40+00:00,"-4.07,134.02",4.07 LS,134.02 BT,5.6,14 km,87 km Tenggara KAIMANA-PAPUABRT,Tidak berpotensi tsunami,Gempa Terkini,
+02 Okt 2023,13:28:21 WIB,2023-10-02T06:28:21+00:00,"-6.88,130.11",6.88 LS,130.11 BT,5.3,133 km,179 km BaratLaut TANIBAR,Tidak berpotensi tsunami,Gempa Terkini,
+01 Okt 2023,11:00:26 WIB,2023-10-01T04:00:26+00:00,"-7.26,106.60",7.26 LS,106.60 BT,5.4,88 km,30 km Tenggara KAB-SUKABUMI-JABAR,Tidak berpotensi tsunami,Gempa Terkini,
+01 Okt 2023,07:18:41 WIB,2023-10-01T00:18:41+00:00,"-10.69,113.07",10.69 LS,113.07 BT,5.0,10 km,284 km BaratDaya JEMBER-JATIM,Tidak berpotensi tsunami,Gempa Terkini,
+28 Sep 2023,21:00:44 WIB,2023-09-28T14:00:44+00:00,"-6.30,130.24",6.30 LS,130.24 BT,5.3,188 km,220 km BaratLaut TANIBAR,Tidak berpotensi tsunami,Gempa Terkini,
+27 Sep 2023,23:15:20 WIB,2023-09-27T16:15:20+00:00,"-3.28,128.81",3.28 LS,128.81 BT,5.1,10 km,16 km BaratLaut MALUKUTENGAH,Tidak berpotensi tsunami,Gempa Terkini,
+15 Okt 2023,22:24:44 WIB,2023-10-15T15:24:44+00:00,"-8.20,118.09",8.20 LS,118.09 BT,4.4,15 km,Pusat gempa berada di darat 55 km barat laut Dompu,,,"III Dompu, III Kab. Bima"
+15 Okt 2023,18:41:21 WIB,2023-10-15T11:41:21+00:00,"-8.23,123.02",8.23 LS,123.02 BT,3.4,10 km,Pusat gempa berada di laut 11 km TimurLaut Larantuka,,,"II - III Larantuka, II - III Adonara, II-III Lembata"
+14 Okt 2023,10:49:30 WIB,2023-10-14T03:49:30+00:00,"-4.89,103.97",4.89 LS,103.97 BT,4.0,5 km,Pusat gempa berada di darat 17 km Barat Laut Lampung Barat,,,"III Liwa, II Pesisir Barat"
+13 Okt 2023,21:17:06 WIB,2023-10-13T14:17:06+00:00,"1.05,127.47",1.05 LU,127.47 BT,2.4,10 km,Pusat gempa berada di laut 1 km tenggara Jailolo,,,II-III Jailolo
+12 Okt 2023,16:30:02 WIB,2023-10-12T09:30:02+00:00,"-10.18,120.12",10.18 LS,120.12 BT,5.0,10 km,Pusat gempa berada di darat 17 km Barat Laut Karera - Sumba Timur,,,III Sumba Timur
+12 Okt 2023,06:44:42 WIB,2023-10-11T23:44:42+00:00,"-6.75,106.65",6.75 LS,106.65 BT,3.2,7 km,Pusat gempa berada di darat 23 km barat daya Kota Bogor,,,II Klapanunggal Bogor
+11 Okt 2023,16:05:57 WIB,2023-10-11T09:05:57+00:00,"-3.48,128.39",3.48 LS,128.39 BT,3.4,5 km,Pusat gempa berada di laut 16 km Selatan Kairatu,,,"II-III Ambon, II-III Kairatu"
+11 Okt 2023,11:41:19 WIB,2023-10-11T04:41:19+00:00,"-3.76,133.68",3.76 LS,133.68 BT,3.1,9 km,Pusat gempa berada di laut 15 Km Barat Daya Kaimana,,,II Kaimana
+11 Okt 2023,09:16:13 WIB,2023-10-11T02:16:13+00:00,"-6.84,107.08",6.84 LS,107.08 BT,2.1,22 km,Pusat gempa berada di darat 6 km Barat Daya Cianjur,,,II Cianjur
+10 Okt 2023,23:42:29 WIB,2023-10-10T16:42:29+00:00,"-8.82,112.50",8.82 LS,112.50 BT,4.8,38 km,Pusat gempa berada di laut 76 km BaratDaya Kabupaten Malang,,,"III Karangkates, II Kepanjen, II Blitar, II Lumajang, II Jember"
+09 Okt 2023,10:50:50 WIB,2023-10-09T03:50:50+00:00,"0.41,122.24",0.41 LU,122.24 BT,5.6,101 km,Pusat gempa berada di laut 17 km BaratDaya Boalemo,,,"II - III Gorontalo, II-III Pohuwato, II-III Kab. Gorontalo, III Kab. Gorontalo Utara, III Bone Bolango, III Bolaang Mongondow Utara, III Toli toli, III Buol, III Boalemo"
+08 Okt 2023,13:10:53 WIB,2023-10-08T06:10:53+00:00,"-5.77,122.82",5.77 LS,122.82 BT,3.0,7 km,"Pusat gempa berada di laut 12,9 km Tenggara Lapandewa, Kab. Buton Selatan",,,III Buton Selatan
+07 Okt 2023,17:20:32 WIB,2023-10-07T10:20:32+00:00,"-5.98,103.91",5.98 LS,103.91 BT,4.8,8 km,Pusat gempa berada di laut 88 Km Barat Daya Pesisir Barat,,,II Bangkunat
+06 Okt 2023,13:51:33 WIB,2023-10-06T06:51:33+00:00,"-3.24,128.36",3.24 LS,128.36 BT,3.7,8 km,Pusat gempa berada di darat 11 km utara Kairatu,,,III Kairatu
+06 Okt 2023,12:42:25 WIB,2023-10-06T05:42:25+00:00,"-0.64,127.64",0.64 LS,127.64 BT,2.8,10 km,Pusat gempa berada di darat 15 km Timur Labuha,,,II-III Bacan Timur
